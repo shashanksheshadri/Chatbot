@@ -1,3 +1,7 @@
 # ignoring files
 
 .vscode
+
+# Ignore local runtime junk
+__pycache__/
+streamlit-env/
